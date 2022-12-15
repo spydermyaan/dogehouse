@@ -22,7 +22,7 @@
     "debug": "^4.3.1",
     "dotenv": "^8.2.0",
     "dotenv-safe": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mediasoup": "^3.6.31",
     "ws": "^7.4.2"
